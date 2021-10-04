@@ -1,3 +1,4 @@
+encoding: utf-8
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -15,17 +16,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+locale			 : "ko-KR" # 블로그의 주요 언어
 title                    : "Hello, JJY's World!"
 title_separator          : "-"
 subtitle                 : "Everything what I've learned"
 name                     : "Jung Ja Young"
-description              : "An amazing website."
+description              : "커밋모아 태산이다"
 url                      : "https://jungjayoung.github.io/" # the base hostname & protocol for your site e.g. 
-baseurl                  : "" # the subpath of your site, e.g. 
+baseurl                  : "" # the subpath of your site, e.g. # 예기치 못한 오류일때 연결되는 URL
 repository               : "JUNGJAYOUNG/JUNGJAYOUNG.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Hello, JJY's World!" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Jung Ja Young"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg" # 프로필 사진 경로
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Republic of Korea"
+  email            : # 이메일 주소
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jayoung1222@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,7 +125,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jayoung1222/"
 
 # Site Footer
 footer:
@@ -214,7 +216,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
