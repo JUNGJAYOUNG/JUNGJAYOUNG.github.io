@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 title                    : "Hello, JJY's World!"
 title_separator          : "-"
-subtitle                 : "Everything what I learn"
+subtitle                 : "Everything what I've learned"
 name                     : "Jung Ja Young"
 description              : "An amazing website."
 url                      : "https://jungjayoung.github.io/" # the base hostname & protocol for your site e.g. 
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jung Ja Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : "jayoung1222@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

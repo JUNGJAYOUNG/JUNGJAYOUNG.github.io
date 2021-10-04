@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 title                    : "Hello, JJY's World!"
 title_separator          : "-"
-subtitle                 : "Everything what I learn"
+subtitle                 : "Everything what I've learned"
 name                     : "Jung Ja Young"
 description              : "An amazing website."
 url                      : "https://jungjayoung.github.io/" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. 
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "JUNGJAYOUNG/JUNGJAYOUNG.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jung Ja Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
