@@ -1,11 +1,13 @@
 ---
-title: "Java Basic: collection-framework"
+title: "Java Basic: Exception handling"
 categories:
   - Java Basic
 tags:
-  - instanceof
-  - final
-  - interface
+  - RuntimeException
+  - Exception handling
+  - try-catch
+  - throws
+  - throw
 ---
 
 ## 예외처리

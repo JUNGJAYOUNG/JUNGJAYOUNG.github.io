@@ -3,9 +3,9 @@ title: "Java Basic: collection-framework"
 categories:
   - Java Basic
 tags:
-  - instanceof
-  - final
-  - interface
+  - List
+  - Set
+  - Map
 ---
 
 #### 배열의 단점
