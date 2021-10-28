@@ -1,5 +1,5 @@
 ---
-title: "Java Basic: JFrame-Jpanel"
+title: "Java Basic: JFrame-JPanel-JMenu"
 categories:
   - Java Basic
 tags:
