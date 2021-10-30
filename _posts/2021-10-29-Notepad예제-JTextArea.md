@@ -5,7 +5,8 @@ categories:
 tags:
   - JTextArea
   - java notepad
-  - 
+toc: true
+toc_sticky: true
 ---
 ## 메모장 만들기
 com.sist.draw
