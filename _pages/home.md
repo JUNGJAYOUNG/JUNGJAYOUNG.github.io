@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+toc: true
 hidden: true
 header:
   overlay_color: "#5e616c"
