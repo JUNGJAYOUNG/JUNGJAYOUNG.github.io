@@ -1,10 +1,9 @@
 ---
-title: "Java Basic: Inner Class - JDBC"
+title: "Oracle SQL: PreparedStatement"
 categories:
-  - Java Basic
+  - Oracle SQL
 tags:
-  - Inner Class
-  - JDBC
+  - PreparedStatement
 ---
 
 ## PreparedStatement

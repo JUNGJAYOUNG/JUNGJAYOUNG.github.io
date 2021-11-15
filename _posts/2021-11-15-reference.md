@@ -1,10 +1,9 @@
 ---
-title: "Java Basic: join"
+title: "Oracle SQL: ALTER"
 categories:
-  - Java Basic
+  - Oracle SQL
 tags:
-  - Inner Class
-  - JDBC
+  - ALTER
 ---
 * 테이블에서 주식별자 설정
 create table dept(

@@ -1,10 +1,11 @@
 ---
-title: "Java Basic: DCL-DDL-DML"
+title: "Oracle SQL: DCL-DDL-DML"
 categories:
-  - Java Basic
+  - Oracle SQL
 tags:
-  - Inner Class
-  - JDBC
+  - DCL
+  - DDL
+  - DML
 ---
 
 ### 테이블 삭제
